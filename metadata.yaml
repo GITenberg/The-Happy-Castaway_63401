@@ -1,11 +1,16 @@
 _repo: The-Happy-Castaway_63401
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63401-h/images/cover.jpg
 creator:
   author:
     agent_name: McDowell, Emmett
     gutenberg_agent_id: '52422'
     url: http://www.gutenberg.org/2009/agents/52422
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63401#The-Happy-Castaway
 gutenberg_issued: '2020-10-07'
 gutenberg_type: Text
 identifiers:
